@@ -1,4 +1,4 @@
-### Hi, 🙋🏻‍♀️ I'm Soli 
+### Hi, 🙋🏻‍♀️ I'm Soli,
 
 
 - 🌱 I’m currently working on personal web projects

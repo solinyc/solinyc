@@ -1,7 +1,6 @@
-### Hi 🙋🏻‍♀️ I'm Soli,
+Hi 🙋🏻‍♀️ I'm Soli,
 
-
-👩🏻‍💻• Full Stack Developer | Digital creator
-📚• Follow for Tips and Tricks ت 
-💻• HTML • CSS • JS • React
-💲• Cashapp @soli.nyc $1 𝗳𝗼𝗿 𝗽𝗮𝗶𝗱 𝗽𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻!
+- 👩🏻‍💻• Full Stack Developer | Digital creator
+- 📚• Follow for Tips and Tricks  
+- 💻• HTML • CSS • JS • React
+- 💲• buy me a coffee -> Cashapp @soli.nyc ت

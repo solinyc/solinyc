@@ -1,7 +1,7 @@
 ### Hi 🙋🏻‍♀️ I'm Soli,
 
 
-- 🌱 I’m currently working on personal web projects
-- 💬 Ask me about anything code related...
-- 👀 I’m looking to collaboratively create MERN Stack projects
-- 📫 How to reach me: ⌲ soli@soli.nyc
+👩🏻‍💻• Full Stack Developer | Digital creator
+📚• Follow for Tips and Tricks ت 
+💻• HTML • CSS • JS • React
+💲• Cashapp @soli.nyc $1 𝗳𝗼𝗿 𝗽𝗮𝗶𝗱 𝗽𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻!
